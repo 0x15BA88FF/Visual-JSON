@@ -1,0 +1,11 @@
+.render_panel_menu {
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .render_panel_menu {
+        width: inherit;
+    }
+}
+.render_panel_menu_renderMode {
+    width: 100%;
+}
