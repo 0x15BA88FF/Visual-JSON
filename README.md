@@ -3,10 +3,17 @@
 ### Turn raw and chunky JSON data into a nice readable, structured visual and make REST API data handling easier and better 👾🤖
 #### REST Like the hokage 🐱‍👤
 
+## The stack
+* javascript
+* React - Next.js
+* Tailwind.css
+* postcss
+
+
 ## content
 * [Features](#features)
-* [Screenshots](#features)
-* [The community](#features)
+* [Screenshots](#Screenshots)
+* [The community](#The community)
 
 ## Features
 
