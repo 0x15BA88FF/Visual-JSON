@@ -13,7 +13,7 @@
 ## content
 * [Features](#features)
 * [Screenshots](#Screenshots)
-* [The community](#The community)
+* [The community](#The-community)
 
 ## Features
 
