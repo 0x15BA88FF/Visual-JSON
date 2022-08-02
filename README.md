@@ -1,4 +1,4 @@
-# 🚀 [Visual JSON](visual-json.vercel.app) 🚀
+# 🚀 [Visual JSON](visual-json.vercel.app)
 
 ### Turn raw and chunky JSON data into a nice readable, structured visual and make REST API data handling easier and better 👾🤖
 #### REST Like the hokage 🐱‍👤
